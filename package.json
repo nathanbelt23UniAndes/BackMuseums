@@ -2,8 +2,8 @@
   "name": "back-modern-art-museum",
   "version": "0.0.1",
   "engines": {
-    "node": "18.7"
-  }
+    "node": "16.10"
+  },
   "description": "",
   "author": "",
   "private": true,
